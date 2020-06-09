@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce_project",
+  "version": "1.0.0",
+  "description": "eCommerce Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar-prabhat/eCommerce_Project.git"
+  },
+  "author": "Prabhat Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumar-prabhat/eCommerce_Project/issues"
+  },
+  "homepage": "https://github.com/kumar-prabhat/eCommerce_Project#readme"
+}
